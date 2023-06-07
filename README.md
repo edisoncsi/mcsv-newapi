@@ -35,4 +35,4 @@ View the results in to Browser:  http://localhost:3000/d/Le2Ku9NMk/k6-performanc
 
 # Result test
 
-![Diagram](./assets/result.jpg "Result test")
+![Diagram](./backendDevTest/assets/result.jpg "Result test")
